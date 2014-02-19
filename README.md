@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ## 项目名称：MySYS
 
 本程序是基于极好的Go WEB 框架 [Martini](https://github.com/codegangsta/martini) 开发的。
+=======
+## 项目名称：mysys
+
+本程序是基于极好的Go WEB 框架 [Martini](https://github.com/codegangsta/martini)开发的。
+>>>>>>> 25f280e631ee5a0cd92893ace8a98f0f2501cf42
 
 ### 为什么要制作这个MySYS？
 MySYS是一个针对小型服务器架构设计的运维管理系统。
