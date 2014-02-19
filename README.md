@@ -1,5 +1,5 @@
 ## 项目名称：mysys
-===
+
 本程序是基于极好的Go WEB 框架 [Martini](https://github.com/codegangsta/martini)开发的。
 
 ### 为什么要制作这个MySYS？
